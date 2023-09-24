@@ -1,0 +1,8 @@
+C:\Users\unkno\source\repos\LINQquerySintaksa\LINQquerySintaksa\obj\Debug\LINQquerySintaksa.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\LINQquerySintaksa\LINQquerySintaksa\obj\Debug\LINQquerySintaksa.csproj.SuggestedBindingRedirects.cache
+C:\Users\unkno\source\repos\LINQquerySintaksa\LINQquerySintaksa\obj\Debug\LINQquerySintaksa.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\LINQquerySintaksa\LINQquerySintaksa\bin\Debug\LINQquerySintaksa.exe.config
+C:\Users\unkno\source\repos\LINQquerySintaksa\LINQquerySintaksa\bin\Debug\LINQquerySintaksa.exe
+C:\Users\unkno\source\repos\LINQquerySintaksa\LINQquerySintaksa\bin\Debug\LINQquerySintaksa.pdb
+C:\Users\unkno\source\repos\LINQquerySintaksa\LINQquerySintaksa\obj\Debug\LINQquerySintaksa.exe
+C:\Users\unkno\source\repos\LINQquerySintaksa\LINQquerySintaksa\obj\Debug\LINQquerySintaksa.pdb
